@@ -14558,6 +14558,13 @@
         "author": "Ruslan Zabarov",
         "description": "Converts units right in your Markdown files.",
         "repo": "ruszabarov/obsidian-unit-converter"
+    },
+    {
+        "id": "daily-task-exporter",
+        "name": "Daily Task Exporter",
+        "author": "alexcvnguyen",
+        "description": "Your plugin description here",
+        "repo": "alexcvnguyen/daily-task-exporter"
     }
 ]
 
